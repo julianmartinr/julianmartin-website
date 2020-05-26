@@ -1,8 +1,6 @@
 ---
 title: "@julianmartinr"
-bio: |
-  Written by You. This is where your author bio lives. Share your work, your
-  joys and of course, your Twitter handle.
+bio: "Hago canciones, videos y un montón de cosas más. Seguime \U0001F44C\n"
 avatar: "/images/dennis-brotzky.jpg"
 featured: true
 social:
