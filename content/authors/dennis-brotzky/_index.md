@@ -15,6 +15,6 @@ social:
 - title: YouTube
   url: https://youtube.com/julianmartinr
 - title: Spotify
-  url: https://github.com
+  url: https://open.spotify.com/artist/3DQLVFQXjBSi6GFF06Pn2t
 
 ---
